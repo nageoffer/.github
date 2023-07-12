@@ -6,7 +6,8 @@
 1. [12306](https://gitee.com/nageoffer/12306) - 完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
 2. [Hippo4j](https://github.com/opengoofy/hippo4j) - 异步线程池框架，支持线程池动态变更&监控&报警，无需修改代码轻松引入。
 3. [Congomall](https://gitee.com/nageoffer/congomall) - 企业级 TOC 商城，基于 DDD 领域驱动模型开发，代码设计优雅，涵盖商城核心业务。
-4. 还在不断更新中...
+4. TODO 幂等组件，一个注解支持 HTTP、RocketMQ、Kafka、RabbitMQ 幂等和重复消费问题。
+5. TODO 从零到一手写配置中心，学习中间件开发的标准与逻辑，功能对标 Nacos 配置中心。
 
 
 ### 专属内容

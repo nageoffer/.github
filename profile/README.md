@@ -20,7 +20,7 @@
 
 ### 星球成员
 
-网站：[https://nageoffer.com](https://magestack.com)
+网站：[https://nageoffer.com](https://magestack.cn)
 
 截至 2023年7月11日，已有 463 名小伙伴加入了「拿个offer-开源&项目实战」知识星球。许多小伙伴在认真学习项目后，成功获得了心仪的校招或社招 offer。
 

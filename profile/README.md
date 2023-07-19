@@ -1,6 +1,5 @@
 ### 组织介绍
 
-
 拿个offer - 开源&项目实战，🚀 助力你在校招或社招上拿个offer。
 
 1. [12306](https://gitee.com/nageoffer/12306) - 完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
@@ -31,6 +30,16 @@
 步骤 ①：微信扫描上方二维码，点击 [ 加入知识星球 ] 按钮。
 
 步骤 ②：访问星球置顶主题 <a href="https://t.zsxq.com/10Y3YuigM" target="_blank">https://t.zsxq.com/10rglb8Jg</a>，获取项目配套文档语雀访问地址。
+
+加入星球后，即可专享 [拿个offer](https://magestack.cn) 组织下所有项目付费文档&视频以及专属 1v1 问答。
+
+目前组织下已支持业务、中间件等多种类型项目，项目列表如下：
+
+| Project                                         | Gitee                                                        | GitHub                                                       | Intro                      |
+|-------------------------------------------------| ------------------------------------------------------------ | ------------------------------------------------------------ |----------------------------|
+| [刚果商城](https://gitee.com/nageoffer/congomall)   | [![star](https://gitee.com/nageoffer/congomall/badge/star.svg?theme=white)](https://gitee.com/nageoffer/congomall/stargazers) | [![](https://img.shields.io/github/stars/nageoffer/congomall?color=green&style=social)](https://github.com/nageoffer/congomall) | 企业级 TOC 商城，基于 DDD 领域驱动模型开发 |
+| [Hippo4j](https://github.com/opengoofy/hippo4j) | [![star](https://gitee.com/opengoofy/hippo4j/badge/star.svg?theme=white)](https://gitee.com/opengoofy/hippo4j/stargazers) | [![](https://img.shields.io/github/stars/opengoofy/hippo4j?color=green&style=social)](https://github.com/opengoofy/hippo4j) | 异步线程池框架，支持线程池动态变更&监控&报警    |
+| [12306](https://gitee.com/nageoffer/12306)      | [![star](https://gitee.com/nageoffer/12306/badge/star.svg?theme=white)](https://gitee.com/nageoffer/12306/stargazers) | [![](https://img.shields.io/github/stars/nageoffer/12306?color=green&style=social)](https://github.com/nageoffer/12306) | 完成高仿铁路 12306系统，帮助学生主打就业的项目 |
 
 
 ### 联系我

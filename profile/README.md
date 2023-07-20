@@ -42,6 +42,13 @@
 | [Hippo4j](https://github.com/opengoofy/hippo4j) | [![star](https://gitee.com/opengoofy/hippo4j/badge/star.svg?theme=white)](https://gitee.com/opengoofy/hippo4j/stargazers) | [![](https://img.shields.io/github/stars/opengoofy/hippo4j?color=green&style=social)](https://github.com/opengoofy/hippo4j) | 异步线程池框架，支持线程池动态变更&监控&报警    |
 | [12306](https://gitee.com/nageoffer/12306)      | [![star](https://gitee.com/nageoffer/12306/badge/star.svg?theme=white)](https://gitee.com/nageoffer/12306/stargazers) | [![](https://img.shields.io/github/stars/nageoffer/12306?color=green&style=social)](https://github.com/nageoffer/12306) | 完成高仿铁路 12306系统，帮助学生主打就业的项目 |
 
+### 联系我
+
+加入星球后，添加马哥微信并备注“星球”，我会发送给你详细的操作指南。
+
+![](https://foruda.gitee.com/images/1689065955024368403/12ccb00a_2262493.png)
+
+
 ### 关于我
 
 马哥，开源爱好者，业务架构师。一个不是在造轮子，就是在造轮子路上的程序员，追求优雅编码。
@@ -55,10 +62,4 @@
 关于写代码，2021 年至今已写近 15 万行代码，包括不限于 Hippo4j、CongoMall、12306 等项目。
 
 还记得刚毕业时技术经理说过：“程序员写过 10 万行代码，可以称之为技术高手”。我不是技术高手，但正在不断努力，以期成为这样的程序员。
-
-### 联系我
-
-加入星球后，添加马哥微信并备注“星球”，我会发送给你详细的操作指南。
-
-![](https://foruda.gitee.com/images/1689065955024368403/12ccb00a_2262493.png)
 

@@ -15,18 +15,20 @@
 
 ### 关于我
 
-马哥，开源爱好者，业务架构师。一个不是在造轮子，就是在造轮子路上的程序员，追求优雅编码。
+程序员马丁，业务架构师，阿里P7。一个不是在造轮子，就是在造轮子路上的程序员，追求优雅编码。从一个增删改查都写不明白的码农，到现在大家眼里的“技术专家”，这些年我做了这些事情？
+
+2019 年开始尝试写博客，收获 **CSDN 博客专家**，**掘金优秀创作者**，**掘金年度人气作者**，**阿里云专家博主**。
 
 业余时间自主推出过几个开源项目，获得了用户很好的反馈。通过开源项目认识了许多志同道合的伙伴。
 
-2021.6 月开源线程池框架 Hippo4j 至今，收获接近 6k Star，40+ 企业生产正式使用。下一个阶段尝试向 Apache 社区提交项目孵化申请。
-
-2022 年贡献 Apache 顶级数据库中间件项目 ShardingSphere。同年，历经三个月持续贡献，被社区提名 [Apache ShardingSphere Committer](https://github.com/apache/shardingsphere/commits?author=magestacks&before=853c5e9e583c51495b15418a969bd4502b091f76+35)。
+- 2021 年开源线程池框架 [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) 至今，收获 `6.5kStar`，**近 50 家企业生产正式使用**。
+- 2022 年贡献 Apache 顶级数据库中间件项目 [apache/ShardingSphere](https://github.com/apache/shardingsphere)。经持续贡献，被社区提名 **ShardingSphere Committer**。
+- 2023 年创建 [nageoffer（拿个offer）](https://gitee.com/nageoffer)开源组织，共发布三个现象级开源框架：`12306`、`SaaS 短链接`以及`刚果商城`，**帮助近千名同学校招和社招拿下心仪面试**。
+- 2023 年底创业做了 **大话面试** 小程序，推出八股 `Redis`、`缓存实战`、`并发编程` 等精品专栏，帮助大家在面试中拿个offer！
 
 关于写代码，2021 年至今已写近 15 万行代码，包括不限于 Hippo4j、CongoMall、12306 等项目。
 
 还记得刚毕业时技术经理说过：“程序员写过 10 万行代码，可以称之为技术高手”。我不是技术高手，但正在不断努力，以期成为这样的程序员。
-
 
 ### 知识星球
 
